@@ -7,7 +7,7 @@ and an Admin dashboard that monitors the blog posts, comments, messages from the
 
 ###### _Admin Dashboard_
 
-![alt text](screenshots/dashboard.png "Admin Dashboard")
+![alt text](screenshots/SDI HR.png "Admin Dashboard")
 
 
 
