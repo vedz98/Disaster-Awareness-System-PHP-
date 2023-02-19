@@ -7,8 +7,6 @@ and an Admin dashboard that monitors the blog posts, comments, messages from the
 
 ###### _Admin Dashboard_
 
-![alt text](screenshots/SDI HR.png)
-
 
 
 
@@ -23,8 +21,8 @@ and an Admin dashboard that monitors the blog posts, comments, messages from the
 
 {
 	
-	email : Fadzil
-	password : Fadzil
+	email : admin@example.com
+	password : 123
 
 }
 
