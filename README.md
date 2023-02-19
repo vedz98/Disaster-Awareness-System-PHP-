@@ -23,8 +23,8 @@ and an Admin dashboard that monitors the blog posts, comments, messages from the
 
 {
 	
-	email : admin@example.com
-	password : 123
+	email : Fadzil
+	password : Fadzil
 
 }
 
